@@ -6,4 +6,4 @@ A social networking Django application (similar to Twitter) written in Python, H
 
 
 
-<img width="954" alt="socialnetwork" src="https://github.com/anurudhkumarsharma/Network/blob/master/Screenshot.png">
+
